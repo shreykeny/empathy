@@ -1,0 +1,40 @@
+html {
+  scroll-behavior: smooth;
+}
+
+#welcome {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100vh;
+  color: #c2cad0;
+  background: #e7717d;
+}
+
+#work {
+  height: 100vh;
+  background: #14a76c;
+  color: #2c3531;
+}
+
+#signup {
+  height: 100vh;
+  background: yellow;
+}
+
+.black {
+  color: black;
+}
+
+.cool {
+  background: #66ff66;
+}
+
+#empathy {
+  height: 50vh;
+}
+
+.green {
+  color: green;
+}
